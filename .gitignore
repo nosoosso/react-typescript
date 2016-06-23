@@ -1,0 +1,5 @@
+node_modules/
+*.tern-project
+public/assets/app.js
+public/assets/
+typings/

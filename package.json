@@ -1,0 +1,30 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "release": "webpack --release",
+    "debug": "webpack",
+    "typings": "typings"
+  },
+  "author": "nosoosso",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nosoosso/react-starter-kit.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.9.0"
+  },
+  "devDependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-hot-loader": "^1.3.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
