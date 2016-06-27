@@ -1,4 +1,4 @@
-# react-starter-kit
+# react-typescript
 
 ```
 npm install
